@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "t_idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-191
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "t_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-208
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "t_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-196
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "t_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "t_right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				7,
+				-183
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "t_idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tornado/Tails",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "tails",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		159,
+		22
+	],
+	"camera_position": [
+		640,
+		200
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

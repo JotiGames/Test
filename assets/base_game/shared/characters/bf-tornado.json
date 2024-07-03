@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "b_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "b_left"
+		},
+		{
+			"offsets": [
+				2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "b_down"
+		},
+		{
+			"offsets": [
+				41,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "b_up"
+		},
+		{
+			"offsets": [
+				-6,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "b_right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				4
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "b_idle",
+			"indices": [
+				16,
+				17,
+				18,
+				19
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tornado/Boyfriend",
+	"position": [
+		0,
+		-130
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		640,
+		200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
