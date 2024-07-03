@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				45000,
+				[
+					[
+						"Camera Focus",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Flash Screen",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73125,
+				[
+					[
+						"Camera Follow Pos",
+						"1060",
+						"500"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Camera Follow Pos",
+						"1060",
+						"360"
+					]
+				]
+			],
+			[
+				76406.25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"knuckles-angry"
+					]
+				]
+			],
+			[
+				76875,
+				[
+					[
+						"Camera Beat Hit Speed",
+						"4",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106875,
+				[
+					[
+						"Camera Beat Hit Speed",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				121875,
+				[
+					[
+						"Camera Follow Pos",
+						"1060",
+						"500"
+					]
+				]
+			],
+			[
+				136875,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}
